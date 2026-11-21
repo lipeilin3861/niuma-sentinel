@@ -1,0 +1,6 @@
+mediapipe==0.10.32
+opencv-contrib-python==4.12.0.88
+cv2-enumerate-cameras==1.4.0
+pillow==13.0.0
+pystray==0.19.5
+miniaudio==1.73

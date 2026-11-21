@@ -1,0 +1,283 @@
+{
+  "clips": [
+    {
+      "file": "01.wav",
+      "name": "门口小哼",
+      "source": "vinrax",
+      "recording": "vinrax1",
+      "excerpt": [
+        0.18,
+        0.4
+      ],
+      "duration": 0.25
+    },
+    {
+      "file": "02.wav",
+      "name": "一口气",
+      "source": "778119",
+      "recording": "778119",
+      "excerpt": [
+        16.73,
+        16.94
+      ],
+      "duration": 0.24
+    },
+    {
+      "file": "03.wav",
+      "name": "哼一下",
+      "source": "stilgar",
+      "recording": "stilgar",
+      "excerpt": [
+        1.43,
+        1.7
+      ],
+      "duration": 0.3
+    },
+    {
+      "file": "04.wav",
+      "name": "小猪嚼嚼",
+      "source": "767229",
+      "recording": "767229",
+      "excerpt": [
+        9.12,
+        9.31
+      ],
+      "duration": 0.22
+    },
+    {
+      "file": "05.wav",
+      "name": "吃到一半",
+      "source": "612680",
+      "recording": "612680",
+      "excerpt": [
+        0.65,
+        1.05
+      ],
+      "duration": 0.43
+    },
+    {
+      "file": "06.wav",
+      "name": "橡皮小猪",
+      "source": "vinrax",
+      "recording": "vinrax3",
+      "excerpt": [
+        0,
+        0.21
+      ],
+      "duration": 0.24
+    },
+    {
+      "file": "07.wav",
+      "name": "鼻子出声",
+      "source": "725919",
+      "recording": "725919",
+      "excerpt": [
+        8.89,
+        9.24
+      ],
+      "duration": 0.38
+    },
+    {
+      "file": "08.wav",
+      "name": "刚醒一哼",
+      "source": "811457",
+      "recording": "811457",
+      "excerpt": [
+        7.11,
+        7.29
+      ],
+      "duration": 0.21
+    },
+    {
+      "file": "09.wav",
+      "name": "拖长一点",
+      "source": "stilgar",
+      "recording": "stilgar",
+      "excerpt": [
+        2.84,
+        3.4
+      ],
+      "duration": 0.59
+    },
+    {
+      "file": "10.wav",
+      "name": "吃完这口",
+      "source": "624341",
+      "recording": "624341",
+      "excerpt": [
+        5.01,
+        5.54
+      ],
+      "duration": 0.56
+    },
+    {
+      "file": "11.wav",
+      "name": "短促噗哼",
+      "source": "778119",
+      "recording": "778119",
+      "excerpt": [
+        23.23,
+        23.57
+      ],
+      "duration": 0.37
+    },
+    {
+      "file": "12.wav",
+      "name": "原地嘟囔",
+      "source": "725919",
+      "recording": "725919",
+      "excerpt": [
+        16.3,
+        16.72
+      ],
+      "duration": 0.45
+    },
+    {
+      "file": "13.wav",
+      "name": "按一下就哼",
+      "source": "vinrax",
+      "recording": "vinrax4",
+      "excerpt": [
+        0.64,
+        0.85
+      ],
+      "duration": 0.24
+    },
+    {
+      "file": "14.wav",
+      "name": "有话要哼",
+      "source": "stilgar",
+      "recording": "stilgar",
+      "excerpt": [
+        9.44,
+        9.75
+      ],
+      "duration": 0.34
+    },
+    {
+      "file": "15.wav",
+      "name": "小口嘀咕",
+      "source": "767229",
+      "recording": "767229",
+      "excerpt": [
+        13.98,
+        14.2
+      ],
+      "duration": 0.25
+    },
+    {
+      "file": "16.wav",
+      "name": "抬头一声",
+      "source": "612680",
+      "recording": "612680",
+      "excerpt": [
+        2.71,
+        2.97
+      ],
+      "duration": 0.29
+    },
+    {
+      "file": "17.wav",
+      "name": "低低咕噜",
+      "source": "811457",
+      "recording": "811457",
+      "excerpt": [
+        16.31,
+        16.48
+      ],
+      "duration": 0.2
+    },
+    {
+      "file": "18.wav",
+      "name": "两下碎念",
+      "source": "725919",
+      "recording": "725919",
+      "excerpt": [
+        0.79,
+        1.2
+      ],
+      "duration": 0.44
+    },
+    {
+      "file": "19.wav",
+      "name": "满意一哼",
+      "source": "778119",
+      "recording": "778119",
+      "excerpt": [
+        24.54,
+        24.95
+      ],
+      "duration": 0.44
+    },
+    {
+      "file": "20.wav",
+      "name": "哨兵收工",
+      "source": "stilgar",
+      "recording": "stilgar",
+      "excerpt": [
+        13.68,
+        14.15
+      ],
+      "duration": 0.5
+    }
+  ],
+  "sources": {
+    "vinrax": {
+      "author": "Vinrax",
+      "title": "Pig SFX Pack",
+      "url": "https://opengameart.org/content/pig-sfx-pack",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "stilgar": {
+      "author": "stilgar",
+      "title": "Man grunts like pig",
+      "url": "https://commons.wikimedia.org/wiki/File:Man_grunts_like_pig.ogg",
+      "license": "公版",
+      "license_url": ""
+    },
+    "778119": {
+      "author": "TheKingOfGeeks360",
+      "title": "Various Pig Grunts, Close Perspective",
+      "url": "https://freesound.org/people/TheKingOfGeeks360/sounds/778119/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "811457": {
+      "author": "TheKingOfGeeks360",
+      "title": "Various Pig Grunts, Take 2",
+      "url": "https://freesound.org/people/TheKingOfGeeks360/sounds/811457/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "767229": {
+      "author": "Wigglesworth",
+      "title": "Pig grunts",
+      "url": "https://freesound.org/people/Wigglesworth/sounds/767229/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "612680": {
+      "author": "wwstudioswastaken",
+      "title": "Pig_Grunt_01",
+      "url": "https://freesound.org/people/wwstudioswastaken/sounds/612680/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "624341": {
+      "author": "wwstudioswastaken",
+      "title": "pig_grunt_09",
+      "url": "https://freesound.org/people/wwstudioswastaken/sounds/624341/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "725919": {
+      "author": "goataamericannovel",
+      "title": "Pig noises",
+      "url": "https://freesound.org/people/goataamericannovel/sounds/725919/",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "edits": "摘选短片段，滤去部分低频和高频，匹配音量，添加淡入淡出。"
+}

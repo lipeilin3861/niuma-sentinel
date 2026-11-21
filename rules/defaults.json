@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "hand_near_eye",
+      "enabled": false,
+      "target": "eyes",
+      "radius": 0.27,
+      "hold_seconds": 0.3,
+      "label": "手靠近眼睛",
+      "title": "手先离开眼睛",
+      "message": "手靠到眼睛附近了，先把手放下来。"
+    },
+    {
+      "id": "hand_near_nose",
+      "enabled": false,
+      "target": "nose",
+      "radius": 0.15,
+      "hold_seconds": 0.36,
+      "style": "bubble",
+      "label": "手靠近鼻子",
+      "title": "手先放下来",
+      "message": "手在鼻子附近停了一会儿。把手放下来。"
+    }
+  ]
+}
